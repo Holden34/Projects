@@ -2,7 +2,8 @@
 Cybersecurity Projects
 
 # Hello, I'm Keegan Holden
-<a href="www.linkedin.com/in/keegan-holden34"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/keegan-holden34" target="_blank">Connect with me on LinkedIn</a>
+
 
 Brief Introduction:
 
