@@ -18,7 +18,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|           ||
+|  Security Engineer and SOC analyst Basics     | <a href="https://github.com/Holden34/TryHackMe">TryHackMe Completions</a>|
 |  | |
 |         | |
 |      | |
@@ -53,5 +53,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- 
+- <a href="https://github.com/Holden34/TryHackMe">TryHackMe Completions</a>
 - 
