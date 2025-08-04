@@ -7,21 +7,20 @@ Cybersecurity Projects
 
 Brief Introduction:
 
-I am Cybersecurity professional with expertise in risk assessment, incident response, security forensics, and hybrid/cloud operations. I am skilled in managing enterprise networks and implementing security controls to ensure optimal performance and protection.
+Progressing through my career in Information Technology, I have developed a strong passion for cybersecurity and am actively building my skills and deepening my knowledge with the goal of growing into a more advanced role as a Security Engineer.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am eager to transition to a greater role, specifically aiming to become a sSecurity Engineer.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am eager to transition to a greater role, specifically aiming to become a Security Engineer.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |  Security Engineer and SOC analyst Basics     | <a href="https://github.com/Holden34/TryHackMe">TryHackMe Completions</a>|
-|  | |
-|         | |
-|      | |
+| Cloud Security Configuration                  |<a href="https://github.com/Holden34/SOC-Lab/tree/main">SOC Lab</a> |
+| Threat Detection and Simulation               |<a href="https://github.com/Holden34/SOC-Lab/tree/main">SOC Lab</a> |
+| Log Management and Analysis                   | <a href="https://github.com/Holden34/SOC-Lab/tree/main">SOC Lab</a>|
 |                  | |
 |  | |
 
@@ -30,6 +29,11 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-003366?&style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -43,6 +47,11 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -54,4 +63,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/Holden34/TryHackMe">TryHackMe Completions</a>
-- 
+- <a href="https://github.com/Holden34/SOC-Lab/tree/main">SOC Lab</a>
